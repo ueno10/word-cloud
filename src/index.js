@@ -3,13 +3,13 @@ import { render } from 'react-dom'
 import WordCloud from "react-d3-cloud"
 const App = () => {
   const [data, setData] = useState([])
-  const fontSizeMapper = word => word.value*15
+  const fontSizeMapper = word => Math.pow(word.value, 0.5) * 5
   const rotate = 0
   const fontFamily = 'meiryo'
 
   useEffect(() => {
     window
-      .fetch('./data/2019data_hosei.json')
+      .fetch('./data/data_keyword_count.json')
       .then((response) => response.json())
       .then((data) =>{
         const words = data.map((d) => {
