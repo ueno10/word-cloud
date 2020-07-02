@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "20ba3305051067fdc0d8bf79e5267f61",
+    "revision": "a0fbacac1b29c60089904bf59b3cbe7b",
     "url": "/word-cloud/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/word-cloud/static/js/2.d5d552c9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7ed800cc4955084d1dd5",
-    "url": "/word-cloud/static/js/main.ead1d12c.chunk.js"
+    "revision": "58ce1b1591a234cfb28a",
+    "url": "/word-cloud/static/js/main.389d9250.chunk.js"
   },
   {
     "revision": "31ef349d0d53f4565ce4",
