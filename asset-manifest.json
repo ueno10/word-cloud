@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/word-cloud/static/js/main.bf8d6600.chunk.js",
-    "main.js.map": "/word-cloud/static/js/main.bf8d6600.chunk.js.map",
+    "main.js": "/word-cloud/static/js/main.dfe029a6.chunk.js",
+    "main.js.map": "/word-cloud/static/js/main.dfe029a6.chunk.js.map",
     "runtime-main.js": "/word-cloud/static/js/runtime-main.d32e8ca0.js",
     "runtime-main.js.map": "/word-cloud/static/js/runtime-main.d32e8ca0.js.map",
     "static/js/2.d5d552c9.chunk.js": "/word-cloud/static/js/2.d5d552c9.chunk.js",
     "static/js/2.d5d552c9.chunk.js.map": "/word-cloud/static/js/2.d5d552c9.chunk.js.map",
     "index.html": "/word-cloud/index.html",
-    "precache-manifest.656d44c820d0b088798655e1f0eb50a7.js": "/word-cloud/precache-manifest.656d44c820d0b088798655e1f0eb50a7.js",
+    "precache-manifest.819e4ec0006a3d8c7dd767f443135832.js": "/word-cloud/precache-manifest.819e4ec0006a3d8c7dd767f443135832.js",
     "service-worker.js": "/word-cloud/service-worker.js",
     "static/js/2.d5d552c9.chunk.js.LICENSE.txt": "/word-cloud/static/js/2.d5d552c9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d32e8ca0.js",
     "static/js/2.d5d552c9.chunk.js",
-    "static/js/main.bf8d6600.chunk.js"
+    "static/js/main.dfe029a6.chunk.js"
   ]
 }
