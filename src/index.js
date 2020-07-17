@@ -3,7 +3,7 @@ import { render } from 'react-dom'
 import WordCloud from "react-d3-cloud"
 const App = () => {
   const [data, setData] = useState([])
-  const fontSizeMapper = word => Math.pow(word.value, 0.5) * 5
+  const fontSizeMapper = word => Math.pow(word.value, 0.8) * 1
   const rotate = 0
   const fontFamily = 'meiryo'
 
