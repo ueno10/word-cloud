@@ -9,7 +9,7 @@ const App = () => {
 
   useEffect(() => {
     window
-      .fetch('./data/data_keyword_count.json')
+      .fetch('./data/data_keyword_count_2019.json')
       .then((response) => response.json())
       .then((data) =>{
         const words = data.map((d) => {
